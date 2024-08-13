@@ -1,4 +1,4 @@
-# Th Weather App
+# Thai Weather App
 
 A new Flutter project.
 
