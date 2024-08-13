@@ -1,4 +1,4 @@
-# forecasting_app
+# Th Weather App
 
 A new Flutter project.
 
